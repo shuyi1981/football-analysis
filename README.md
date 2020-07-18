@@ -1,11 +1,3 @@
 # laliga-champions
 
-Last thursday, Real Madrid has been crowned as laliga champions for this season (19-20). I have had mixed feelings about this season champions. I do like watching Real Madrid playing. I believe they have some of the best talented players in the world.
-
-
-
-layout: page
-title: "About Me"
-permalink: /about/
-
-Now this is a test
+The image (laliga-champions.png) contains a scatter plot of laliga champions sicne 2010-2011. This year, I believe we can attribute the success of Real Madrid mainly to their strong defense as shown on the graph.
